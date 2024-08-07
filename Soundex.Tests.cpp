@@ -36,4 +36,4 @@ char soundex[5];
 generateSoundex("bcdlmnr", soundex);
 ASSERT_STREQ(soundex,"B234");
 }
-has context menu
+
